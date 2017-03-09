@@ -1,15 +1,11 @@
-# install-couchdb
-
-Simple CouchDB 2.0 installation script
+# couchdb-install
+CouchDB 2.0 Debian 8 installation script
+Based on afiskon/install-couchdb
 
 Usage:
 
 ```
-mkdir temp
-cd temp
-wget https://raw.githubusercontent.com/afiskon/install-couchdb/master/install-couchdb.sh
-sh install-couchdb.sh
-# then see http://localhost:5984/_utils/
+Just download/copy and run
 ```
 
-Tested on Ubuntu 16.04
+Tested on Debian 8.7
