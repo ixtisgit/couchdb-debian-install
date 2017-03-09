@@ -42,3 +42,4 @@ EOT
 systemctl daemon-reload
 systemctl start couchdb
 systemctl enable couchdb
+
