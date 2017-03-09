@@ -1,5 +1,5 @@
 # couchdb-install
-CouchDB 2.0 Debian 8 installation script with proxy option and systemd. Based on afiskon/install-couchdb
+CouchDB 2.0 Debian 8 installation script with proxy option and systemd. Based on https://github.com/afiskon/install-couchdb
 
 For usage just download/copy and run script in target directory. Then check:
 
