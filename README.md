@@ -8,4 +8,4 @@ For usage just download/copy script and run it in target directory. After instal
 
 ```
 
-Tested on Debian 8.7
+Tested on Debian 8.4 LXC
